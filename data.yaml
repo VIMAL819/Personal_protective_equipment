@@ -1,0 +1,6 @@
+train: "D:/PPE/PPE_Detection.v2i.yolov8/train"
+val: "D:/PPE/PPE_Detection.v2i.yolov8/valid"
+test: "D:/PPE/PPE_Detection.v2i.yolov8/test"
+
+nc: 7
+names: ['Dust Mask', 'Eye Wear', 'Glove', 'Protective Boots', 'Protective Helmet', 'Safety Vest', 'Shield']
